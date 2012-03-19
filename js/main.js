@@ -8,6 +8,7 @@ Modernizr.load([
             }
             
             Modernizr.load([
+            	'js/jquery.validate.js'
             	'js/custom.js?v=01'
             ]);
             
