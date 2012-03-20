@@ -1,8 +1,6 @@
-/* Author:
-
-*/
+(function ($) {
 
 
 
 
-
+})(jQuery);
